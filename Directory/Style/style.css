@@ -1,0 +1,28 @@
+.background{
+    background-color:lightblue;
+}
+
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.jcc{
+    justify-content: center;
+}
+
+.padding-top{
+    padding-top:20px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-white{
+   color:white;
+}
